@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40281621400",
+    "firebase_url": "https://barber-45220.firebaseio.com",
+    "project_id": "barber-45220",
+    "storage_bucket": "barber-45220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40281621400:android:c60c5803894eaf53",
+        "android_client_info": {
+          "package_name": "com.lentimosystems.licio.barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40281621400-185i48erqe2mdchigritmb8vik45lqnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lentimosystems.licio.barber",
+            "certificate_hash": "16f2884f8bbe02b94f0d44f04843d5e028428d7d"
+          }
+        },
+        {
+          "client_id": "40281621400-7apc13cpsljmcpnluqos5tue8borj2eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2STzYOn-Z1N3bbrMUBNa3Civ-u_wRWi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40281621400-7apc13cpsljmcpnluqos5tue8borj2eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
